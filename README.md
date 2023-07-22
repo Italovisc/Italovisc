@@ -5,7 +5,12 @@
 - Eager to learn and evolve 🧠
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Italovisc&hide=contribs&show_icons=true&theme=dracula&rank_icon=github&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=Italovisc&hide=contribs&show_icons=true&rank_icon=github&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Italovisc&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=320" />
+</a>
 
 
 <div style="display: inline_block"><br>
@@ -20,6 +25,7 @@
 
  
 <div> 
-  <a href = "mailto:italotsantana75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:italotsantana75@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/italo-santana-a31520259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://leetcode.com/Italovisc/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 </div>
