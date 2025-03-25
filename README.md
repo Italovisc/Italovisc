@@ -1,7 +1,7 @@
 # Hi There :)
 
 
-- Currently strudying programming 🖥️
+- Currently studying programming 🖥️
 - Eager to learn and evolve 🧠
 
 
