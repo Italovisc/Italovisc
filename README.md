@@ -1,8 +1,14 @@
 # Hi There :)
 
 
-- Currently studying programming 🖥️
-- Eager to learn and evolve 🧠
+### 💻 Stack Tecnológica
+* **Linguagens:** Python, Java, C.
+* **Ferramentas:** Git, GitHub, Visual Studio Code.
+
+### ⚙️ Foco Atual
+* Resolução de problemas algorítmicos.
+* Transição entre paradigmas (Imperativo vs. Orientado a Objetos).
+* Estruturação de código limpo e de fácil manutenção.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
