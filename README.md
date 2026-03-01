@@ -1,4 +1,4 @@
-# Hi There :)
+# Olá, eu sou Italo
 
 
 ### 💻 Stack Tecnológica
@@ -11,17 +11,9 @@
 * Estruturação de código limpo e de fácil manutenção.
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=Italovisc&hide=contribs&show_icons=true&rank_icon=github&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Italovisc&size_weight=0.5&count_weight=0.5&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=320" />
-</a>
-
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
