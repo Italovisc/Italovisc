@@ -25,4 +25,5 @@
   <a href="mailto:italotsantana75@gmail.com" target"_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/italo-santos-a31520259/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
   <a href="https://leetcode.com/Italovisc/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.sololearn.com/pt/profile/21379099" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SoloLearn-141414?style=for-the-badge&logo=sololearn&logoColor=white"></a>
 </div>
