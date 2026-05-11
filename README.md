@@ -1,15 +1,14 @@
-# Olá, eu sou Italo
+# Hello, I'm Italo
 
 
-### 💻 Stack Tecnológica
-* **Linguagens:** Python.
-* **Ferramentas:** Git, GitHub, Visual Studio Code.
+### 💻 Technology Stack
+* **Languages:** Python.
+* **Tools:** Git, GitHub, Visual Studio Code.
 
-### ⚙️ Foco Atual
-* Resolução de problemas algorítmicos.
-* Transição entre paradigmas (Imperativo vs. Orientado a Objetos).
-* Estruturação de código limpo e de fácil manutenção.
-
+### ⚙️ Current Focus
+* Solving algorithmic challenges and optimizing time/space complexity.
+* Transitioning between paradigms (Imperative vs. Object-Oriented).
+* Structuring clean and maintainable code.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
